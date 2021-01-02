@@ -1,6 +1,6 @@
 # ProjektiWEB
 UBT Projekti WEB 
-=============================* PROJEKTI - UBT *=====================================
+======* PROJEKTI - UBT *=======
 
 *PROJEKTI "Agjensioni i Patundshmeris (PRIVATE)"*
 
